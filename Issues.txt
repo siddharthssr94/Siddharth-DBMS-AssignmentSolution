@@ -1,4 +1,0 @@
-Query 6) Query affected as there are two Duplicate values in Price Table
-	-> Sleeper, 350
-	-> Sitting, 500
-Query 7) Data Missing for passenger , who travelled in Sitting Bus for 1000KM	
